@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my Master's Thesis about Deep Learning and Medical Imaging
+- 🗣️ I speak French and English fluently and can undestand basic Spanish
+- 📫 How to reach me: laureline.willem@student.uclouvain.be
+
 <!--
 **willeml12/willeml12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
