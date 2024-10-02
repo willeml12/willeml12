@@ -2,11 +2,10 @@
 
 - 🔭 I’m currently working on my Master's Thesis about Deep Learning and Medical Imaging
 - 🗣️ I speak French and English fluently and can undestand basic Spanish
-- 👩‍🎓 To graduate my MSc in Engineering and Computer Sciences in September 2024
+- 👩‍🎓 Young graduate of MSc in Engineering and Computer Sciences
 - 🤖 Majoring in AI
 - 🧬 Elective courses in Biomedical Engineering
-- 💻 Looking for a job !
-- 📫 How to reach me: laureline.willem@student.uclouvain.be
+- 📫 How to reach me: laureline.willem@skynet.be
 
 <!--
 **willeml12/willeml12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
