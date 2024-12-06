@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Master's Thesis about Deep Learning and Medical Imaging
+- 🔭 Data Scientist & Analytic Translator
 - 🗣️ I speak French and English fluently and can undestand basic Spanish
 - 👩‍🎓 Young graduate of MSc in Engineering and Computer Sciences
 - 🤖 Majoring in AI
